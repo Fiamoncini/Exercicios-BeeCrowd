@@ -1,2 +1,3 @@
-# Exercicio-BeeCrowd
-Exercícios de Programação em JAVA do Site BeeCrowd
+# Exercicios-BeeCrowd
+Todos meus Exercícios feitos até o momento no BeeCrowd (18/07/2024)
+Quaisquer dúvidas entrar em contato!
