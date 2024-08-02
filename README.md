@@ -1,5 +1,5 @@
 # Exercicios-BeeCrowd
-Todos meus Exercícios feitos até o momento no BeeCrowd (18/07/2024)
+Todos meus Exercícios feitos até o momento no BeeCrowd (02/08/2024)
 
 
 
